@@ -1,5 +1,6 @@
 # aisummarizer
-AI Text Summarizer (PDF/DOCX/Text)
+**AI Text Summarizer (PDF/DOCX/Text)**
+
 This is a web app built with Streamlit that uses a transformer-based NLP model (via Hugging Face Transformers) to automatically summarize content from PDF files, DOCX documents, or raw text input.
 
 Features
